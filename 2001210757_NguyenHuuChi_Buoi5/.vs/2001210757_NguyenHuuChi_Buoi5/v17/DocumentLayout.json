@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\HK3 nam 3\\HUIT_CT4_T7-12_THKTLT_Buoi5\\HUIT_CT4_T7-12_THKTLT_Buoi5\\2001210757_NguyenHuuChi_Buoi5\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{43AD4FDD-BE21-438D-9C44-4C469AE09F26}|2001210757_NguyenHuuChi_Buoi5\\2001210757_NguyenHuuChi_Buoi5.vcxproj|D:\\HK3 nam 3\\HUIT_CT4_T7-12_THKTLT_Buoi5\\HUIT_CT4_T7-12_THKTLT_Buoi5\\2001210757_NguyenHuuChi_Buoi5\\2001210757_NguyenHuuChi_Buoi5\\BAI1C2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{43AD4FDD-BE21-438D-9C44-4C469AE09F26}|2001210757_NguyenHuuChi_Buoi5\\2001210757_NguyenHuuChi_Buoi5.vcxproj|solutionrelative:2001210757_NguyenHuuChi_Buoi5\\BAI1C2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{43AD4FDD-BE21-438D-9C44-4C469AE09F26}|2001210757_NguyenHuuChi_Buoi5\\2001210757_NguyenHuuChi_Buoi5.vcxproj|D:\\HK3 nam 3\\HUIT_CT4_T7-12_THKTLT_Buoi5\\HUIT_CT4_T7-12_THKTLT_Buoi5\\2001210757_NguyenHuuChi_Buoi5\\2001210757_NguyenHuuChi_Buoi5\\Bai1C1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{43AD4FDD-BE21-438D-9C44-4C469AE09F26}|2001210757_NguyenHuuChi_Buoi5\\2001210757_NguyenHuuChi_Buoi5.vcxproj|solutionrelative:2001210757_NguyenHuuChi_Buoi5\\Bai1C1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BAI1C2.cpp",
+              "DocumentMoniker": "D:\\HK3 nam 3\\HUIT_CT4_T7-12_THKTLT_Buoi5\\HUIT_CT4_T7-12_THKTLT_Buoi5\\2001210757_NguyenHuuChi_Buoi5\\2001210757_NguyenHuuChi_Buoi5\\BAI1C2.cpp",
+              "RelativeDocumentMoniker": "2001210757_NguyenHuuChi_Buoi5\\BAI1C2.cpp",
+              "ToolTip": "D:\\HK3 nam 3\\HUIT_CT4_T7-12_THKTLT_Buoi5\\HUIT_CT4_T7-12_THKTLT_Buoi5\\2001210757_NguyenHuuChi_Buoi5\\2001210757_NguyenHuuChi_Buoi5\\BAI1C2.cpp",
+              "RelativeToolTip": "2001210757_NguyenHuuChi_Buoi5\\BAI1C2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-31T09:49:46.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Bai1C1.cpp",
               "DocumentMoniker": "D:\\HK3 nam 3\\HUIT_CT4_T7-12_THKTLT_Buoi5\\HUIT_CT4_T7-12_THKTLT_Buoi5\\2001210757_NguyenHuuChi_Buoi5\\2001210757_NguyenHuuChi_Buoi5\\Bai1C1.cpp",
               "RelativeDocumentMoniker": "2001210757_NguyenHuuChi_Buoi5\\Bai1C1.cpp",
